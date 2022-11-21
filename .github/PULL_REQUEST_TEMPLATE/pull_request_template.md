@@ -1,5 +1,5 @@
 ###
-This is a hotfix
+This is a baseTEMPLATE
 
 Doneness:
-- [ ] : this hotfix works
+- [ ] : this template works
